@@ -1,6 +1,6 @@
 # Judge-v2
 
-This is a software designed to be "similar to" SoftUni Judge
+This is a software designed to be "similar to" SoftUni Judge (in the form of a Console App)
 .
 .
 .
